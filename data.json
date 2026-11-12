@@ -1,1586 +1,716 @@
 {
-  "items": [
+  "status": "success",
+  "data": [
     {
-      "title": "Định vị FFMax",
-      "description": "Data For FFMax",
-      "image_url": "",
-      "file_url": "https://www.mediafire.com/file/n41k0a8ped8wkkw/HOLOGRAM_FFMAX.zip/file",
-      "game_type": "com.dts.freefiremax"
+      "id": "104",
+      "title": "Skin Bá Sàn ff",
+      "description": "Nhân Vật lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/b1sfxconomu4x4q/104_Skin%20B%C3%A1%20S%C3%A0n%20ff.zip/file",
+      "image_url": "https://www.mediafire.com/file/gsisoheg6ut?dl=1"
     },
     {
-      "title": "Mod Alok Rouk FFMax",
-      "description": "Data For FFMax",
-      "image_url": "",
-      "file_url": "https://www.mediafire.com/file/bv5xlbpjadr9h2f/MOD_SKIN_RUOK_FF_FFMAX_ADR_CO%25CC%2581_BALO_VA%25CC%2580_HIE%25CC%25A3%25CC%2582U_U%25CC%259B%25CC%2581NG_NA%25CC%2586%25CC%2581M_%25C4%2590A%25CC%2582%25CC%2581M.zip/file",
-      "game_type": "com.dts.freefiremax"
+      "id": "106",
+      "title": "Skin Bá Sàn ff",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/gqcxjnl40xt14yz/106_Skin%20B%C3%A1%20S%C3%A0n%20ff.zip/file",
+      "image_url": "https://files.catbox.moe/p5unvv.jpg"
     },
     {
-      "title": "Data Bypass V1",
-      "description": "Data For FFTH",
-      "image_url": "",
-      "file_url": "https://www.mediafire.com/file/zhda71ibaw4hy9s/DATA+BYPASS+V1.zip/file",
-      "game_type": "com.dts.freefireth"
+      "id": "108",
+      "title": "Skin Bá Sàn ff",
+      "description": "Nhân Vật lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/0y3fisgzzgr6fp4/108_Skin%20B%C3%A1%20S%C3%A0n%20ff.zip/file",
+      "image_url": "https://iili.io/npbaQPj.jpg"
     },
     {
-      "title": "Data Headshot V11",
-      "description": "Data For FFTH",
-      "image_url": "",
-      "file_url": "https://www.mediafire.com/file/unbmavqvoeyr8ha/DATA+REGEDIT+V11+(s%E1%BA%A3nh)+(1).zip/file",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787614995_8726.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FREE FIRE OB54 V197 MỚI NHẤT PRO PLAYER FFTH ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1787614966_8720.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFM_ANDROID_1786057553_944bc779.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787614940_8720.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFT_ANDROID_1786057414_cd76148a.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Menu Proxy cực Vip",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1787573049_8613.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/DATA NHẸ TÂMgggv ffttV5 FFTH.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Menu Proxy cực Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787570524_8613.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/DATA NHẸ TÂM ffttV5 FFTH.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Định Vị ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787533372_8452.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/fgggyyy.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Định Vị ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787533307_7316.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFTH Data Định Vị Súng Màu Xanh Lá Bom Keo Mờ.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Gia nhập THÀNH HỌA NGUYỆT",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787471616_8398.png",
-      "file_url": "https://thanhdo.click/uploads/files/MOD HÀNH ĐỘNG GIA NHẬP CHINH PHỤC 10K KC ANDROsssssssID FFMAX.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Hành động gia nhập 10k kc",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1787471482_8397.png",
-      "file_url": "https://thanhdo.click/uploads/files/MOD HÀNH ĐỘNG GIA NHẬP CHINH PHỤC 10K KC ANDssssROID FFMAX.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Hành động gia nhập 10k Kc",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787471417_8397.png",
-      "file_url": "https://thanhdo.click/uploads/files/MOD HÀNH ĐỘNG GIA NHẬP CHINH PHỤC MỚI NHẤT CHO ANDROID BY FAKEMOD.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Nhẹ Tâm + Định Vị Mờ Keo Anti",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787442585_edit_8338.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/nh Vị ffth vffffip proj.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Kaito Kid",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787410239_edit_8178.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/com.dts.freefirethggggg.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "bám tâm HS VIP👹 1m💸",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1787409845_8171.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/bám tâm HS VIP👹.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "TUNG TUNG SAHUR",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1787364307_8080.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/mmkkgtyyuyy.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "TUNG TUNG SAHUR",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787364247_8080.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/TUNG TUNG SAHUR + SQUID GAME.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "ThanhDo Mod V4.1 Vip",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1787269952_7975.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Picsart_26-08-21_06-50-40-644.jpg",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "ThanhDo Mod V4.1 Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787269936_7975.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Picsart_26-08-21_06-50-40-644.jpg",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1787364672_edit_8086.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFM_ANDROID_1787235196_255c7bf9.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787364641_edit_8086.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFT_ANDROID_1787235114_9b0d8038.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Định Vị Mờ Keo",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1787288532_edit_7321.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFMAX Data Định Vị Súng 2 Lớp Hồng Cam Bom Keo Mờ.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Định Vị Mờ Keo",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787288474_edit_7321.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFTH Data Định Vị Súng 2 Lớp Hồng Cam Bom Keo Mờ.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Proxy Android Cực Bá",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787222473_7910.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/File Drag No Noot.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Pro",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1787206432_7716.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFM_ANDROID_1787116680_dfba490f.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin pro",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787206392_7716.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFT_ANDROID_1787116477_dacdc8ce.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1787206362_7719.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN PROPLAYER IGNIS ÁO KIM LONG QUẦN THÁM HIỂM ĐỎ FFMAX.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787206306_7719.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN PROPLAYER IGNIS ÁO KIM LONG QUẦN THÁM HIỂM ĐỎ FFTH.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Bom keo múp",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1787199853_7680.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Icewall_FFM_ANDROID_1786426644.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Bom keo múp",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787199812_7680.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Icewall_FFT_ANDROID_1786426750.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Nữ Múp",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787122335_7545.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FREE FIRE OB54 V191 MỚI NHẤT PRO PLAYER FFTH ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Spprmam múp",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787096410_6954.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/mmmmmmmnnbv.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787096316_6960.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/vvggvvvvvv.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Bên lựa",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787052536_6951.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/mmmmhgfddfyh.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1787052438_7350.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFM_ANDROID_1787035907_5b09c110.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787052400_7350.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFT_ANDROID_1787035836_78d89306.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "HÀNH ĐỘNG NGAI VÀNG",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1787013515_7294.png",
-      "file_url": "https://thanhdo.click/uploads/files/MOD HÀNH ĐỘNG NGAI VÀNG FFMAX CHO ANDROID.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "HÀNH ĐỘNG NGAI VÀNG",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1787013366_7294.png",
-      "file_url": "https://thanhdo.click/uploads/files/MOD HÀNH ĐỘNG NGAI VÀNG FFTH CHO ANDROID .zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Vip pro",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786964333_7187.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN RUOK FF FFMAX ADR CÓ BALO VÀ HIỆU ỨNG NẮM ĐẤM BY FAKE MOD.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin vip pro",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786964310_7187.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN RUOK FF FFTH ADR CÓ BALO VÀ HIỆU ỨNG NẮM ĐẤM BY FAKE MOD.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786965380_edit_7182.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFM_ANDROID_1782973289_921b227b.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786964251_7182.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFT_ANDROID_1782973192_edfdd9e5.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Gojo Bá Sàn ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786924004_6957.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/lon.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Thonm",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786923764_7120.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Thanos FFTH Adr.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Ben Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786924052_edit_6947.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Ben10_By_SparkTxT_FF.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin khỉ ngào",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786878466_6875.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/com.dts.freefiremax.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Aim 1m💸",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786871654_6878.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Aghgim .zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Aim 1m💸",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786871576_6878.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Aim .zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin khỉ Bá",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786871543_6875.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/com.dts.freefireth.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786862840_6846.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFM_ANDROID_1784595525_a7d3e389.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786862814_6846.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFT_ANDROID_1785118629_ce441756.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Em múp",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786862779_6851.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MAX FF X GTA SA.7z",
-      "game_type": "com.dts.freefireth"
-    },
-    {
+      "id": "111",
       "title": "Skin Vip",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786789466_edit_6590.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SET ĐỒ BÁ SÀN FFMAX ADR.zip",
-      "game_type": "com.dts.freefiremax"
+      "description": "Nhân Vật kapela",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/o3ufs50gqkn86ti/111_Skin%20Vip.zip/file",
+      "image_url": "https://iili.io/npbc3iJ.jpg"
     },
     {
+      "id": "119",
       "title": "Skin Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786789412_edit_6590.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FF SET ĐỒ BÁ SÀN FFT ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Vip pro",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786688888_6474.png",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FREE FIRE OB54 V169 MỚI NHẤT PRO PLAYER FFMAX ANDROID.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin vip pro",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786688854_6471.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FREE FIRE OB54 V169 MỚI NHẤT PRO PLAYER FFTH ANDROID.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786688811_6468.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFM_ANDROID_1783880689_3847be16.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786688780_6468.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFT_ANDROID_1783880585_bc12c87c.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Định vị Mờ Keo",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786687235_6444.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/File đv súng vip.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Định Vị súng mờ keo",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786686861_6442.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/File Định FFth .zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786587333_6175.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FREE FIRE OB54 V158 MỚI NHẤT PRO PLAYER FFMAX ANDROID.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786587304_6175.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FREE FIRE OB54 V158 MỚI NHẤT PRO PLAYER FFTH ANDROID.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786587005_edit_6172.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FREE FIRE OB54 V179 MỚI NHẤT PRO PLAYER FvFMAX ANDROID.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786585223_6151.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FREE FIRE V179 MỚI NHẤT PRO PLAYER FFTH ANDROID.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786584893_6115.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FREE FIRE V178 MỚI NHẤT PRO PLAYER FFTH ANDROID.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Xmodz astute beta new Ob54",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786524569_6061.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/xmozzdz.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Xmodz astute beta new Ob54",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786524502_6061.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/xmodz.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Brazil",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786512185_6010.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/kkkk.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786512075_6006.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFM_ANDROID_1783873118_578e5699.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786512050_6006.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFT_ANDROID_1783873000_7f474b01.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786420597_5596.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FFT MAX BÁ KAI.ZIP",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786420553_5596.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FFT ADR BÁ KAI.ZIP",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786420222_5591.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/nsnsnsgggggbnhhhhhhmnns.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786420081_5591.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/nsnsnsgggggbnmnns.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786419937_5585.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FREE FIRE OB54 V187 KEPELLA MỚI NHẤT PRO PLAYER FFMAX ADR.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786419910_5585.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ffth.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786342470_5482.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/nsnsnsnns.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786342426_5482.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V24_IGNIS_AO_HOA_DIEU_B_FF_THUONG_ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Nhẹ Tâm + Ám Tâm 700k",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786341071_5181.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFTH-AlnnnuuuuuuWK O.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786327566_5459.png",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFM_ANDROID_1784831216_62f00fe4.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786327539_5459.png",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFT_ANDROID_1786235116_21ff7aff.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Huấn Luyện Minecraft V2 ( cre: HomerSL )",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786268339_5385.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/DHL minecraft v2.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Huấn Luyện Minecraft V1 ( cre: HomerSL )",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786268297_5379.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/DHL minecraft v1.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Độc Lang Chiến Minecraft ( cre: HomerSL )",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786268202_5378.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/DLC Minecraft v2.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Độc Lang Chiến Roblox ( cre: HomerSL )",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786253454_5224.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/DLC Roblox.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786245429_5197.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFM_ANDROID_1786235198_69a82394.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786245255_5197.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFT_ANDROID_1786235116_21ff7aff.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Định vị Vip áo súng mờ keo",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786236998_5164.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFTH Data Định Vị Súng 2 Lớp Xanh Vàng Bom Keo Mờ.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Định Vị Vip 500k",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786236924_edit_5176.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFTH Data Định Vị.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786233404_5159.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFM_ANDROID_1783785350_5ffb44b1.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786233125_5159.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFT_ANDROID_1783785195_32a7e927.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786177545_5031.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FREE FIRE OB54 V183 FULL HIỆU ỨNG MỚI NHẤT PRO PLAYER FFMAX ANDROID.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786177515_5031.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FREE FIRE OB54 V183 FULL HIỆU ỨNG MỚI NHẤT PRO PLAYER FFTH ANDROID.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786154767_4984.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFTH-AlnnnWK O.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786154717_4984.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFTH-Alok AWK O.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786154666_4979.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/OB54 Bmm ANIMATION GLITCH FILE BY ANNU MOD Z.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786154611_4979.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/OB54 BUNDLE + ANIMATION GLITCH FILE BY ANNU MOD Z.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786096205_edit_4794.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FREE FIRE OB54 MỚI NHẤT V182 MỚI NHẤT PRO PLAYER FFMAX ADR.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786096216_edit_4794.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FREE FIRE OB54 MỚI NHẤT V182 PRO PLAYER FFTH ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Bom keo múp",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786096308_edit_4800.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Icewall_FFM_ANDROID_1786075167.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Bom keo múp",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786096317_edit_4800.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Icewall_FFT_ANDROID_1786075288.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1786095692_4788.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFM_ANDROID_1784596342_8e49fe2a.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786095666_4788.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFT_ANDROID_1784596168_843801f4.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "NHẸ TÂM",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786066411_edit_4700.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/SupProMax_1.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Hành động hả gục",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1786066351_edit_4695.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Ken_Mod_Z_OB54_V_TEST_HÀNH_ĐỘNG_KẾT_LIỄU_FF_THUONG_ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785915700_4378.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/UE LOCK BUNDLE GLITCH FIhANNU MOD Z.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785915660_4378.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FF + FF LUE LOCK BUNDLE GLITCH FIhANNU MOD Z.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785915604_4376.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FF + FF LUE LOCK BUNDLE GLITCH FILE BY ANNU MOD Z.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785915555_4376.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FF + FF MAX RIN BLUE LOCK BUNDLE GLITCH FILE BY ANNU MOD Z.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785909163_4355.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/mmmggggymgggv.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785909121_4355.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/mmmgggv.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785908810_4343.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/kkkvbgggv.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785908755_4343.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/kkkkggggv.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785903867_4331.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/OB54 FF BUNDLE + ANIMATION GLITCH FILE BY ANNU MOD Z (1).zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Helkkyti",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785904955_edit_4337.png",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFM_ANDROID_1783946891_a7d0ae00.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Heliky",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785904921_edit_4337.png",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFT_ANDROID_1783946766_1b2d99ad.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin vip",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785888390_4263.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/OB54 V200 MOD SKIN FF MAX CHO ADR [ STUDIO MOD ].ZIP",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785888354_4263.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/OB54 V200 MOD SKIN FF TH CHO ADR [ STUDIO MOD ].ZIP",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785888254_4232.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/OB54 BUNDLE GLITCH FILE V1 BY RUSHER RAJ.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785838548_4221.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD_DAO_SI_DO_BA_SAN_FF_MAX_ADR.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Vip ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785838501_4221.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD_DAO_SI_DO_BA_SAN_FF_THUONG_ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Định vị người đỏ Keo Mờ",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785824898_4191.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFMAX Data Định Vị Súng Cam đỏ Bom Keo Mờ.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Định vị đỏ keo mờ",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785824418_4194.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFTH Data Định Vị Súng Đỏ vip Bom Keo Mờ.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Pro",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785815283_3701.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN FREE FIRE V174 MỚI NHẤT PRO PLAYER FFTH ANDROID.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
+      "description": "Nhân Vật lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/dbke7l62v7u3pwd/119_Skin%20Vip.zip/file",
+      "image_url": "https://iili.io/npbcoNt.jpg"
+    },
+    {
+      "id": "121",
+      "title": "Ma Ảnh",
+      "description": "Nhân Vật lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/73fo5aqhei6ywz1/121_Ma%20%E1%BA%A2nh.zip/file",
+      "image_url": "https://iili.io/npbc0b9.jpg"
+    },
+    {
+      "id": "123",
       "title": "Skin  Bá Sàn",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785815168_3703.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFTH_ignis_nagiXsasuke.zip",
-      "game_type": "com.dts.freefireth"
+      "description": "Nhân Vật lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/dt4vl5uy6e4gy94/123_Skin%20%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbcSsa.jpg"
     },
     {
-      "title": "Ma Ảnh",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785806629_3684.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFMax-ignis Ma Ảnh.zip",
-      "game_type": "com.dts.freefiremax"
+      "id": "124",
+      "title": "Skin Pro",
+      "description": "Nhân Vật Nairi",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/2mfnl3roo0pm83v/124_Skin%20Pro.zip/file",
+      "image_url": "https://iili.io/npblz7V.jpg"
     },
     {
-      "title": "Ma Ảnh",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785806580_3684.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFTH-ignis Ma Ảnh.zip",
-      "game_type": "com.dts.freefireth"
+      "id": "127",
+      "title": "Skin Vip ff",
+      "description": "Nhân Vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/lodkkcr5l97nbq2/127_Skin%20Vip%20ff.zip/file",
+      "image_url": "https://iili.io/npbl17p.jpg"
     },
     {
+      "id": "129",
       "title": "Skin Vip",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785806395_3680.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFMax-ignis_isagi_chidori.zip",
-      "game_type": "com.dts.freefiremax"
+      "description": "Nhân Vật Luqueta",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/g0itectafjppb1c/129_Skin%20Vip.zip/file",
+      "image_url": "https://iili.io/npblN4f.jpg"
     },
     {
+      "id": "135",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/zhye8y1whkdmuil/135_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbli4j.jpg"
+    },
+    {
+      "id": "137",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/hba1uv7kjbbgvcs/137_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npb0Fvp.jpg"
+    },
+    {
+      "id": "139",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/hj39p0cs6s4svke/139_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npb0TFf.jpg"
+    },
+    {
+      "id": "141",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/r3mdyeks2r1kk78/141_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npb0at9.jpg"
+    },
+    {
+      "id": "145",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/bqft7v1nocx60i7/145_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npb0X9V.jpg"
+    },
+    {
+      "id": "170",
       "title": "Skin Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785806369_3680.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFTH-ignis_isagi_chidori.zip",
-      "game_type": "com.dts.freefireth"
+      "description": "Nhân vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/q5ag3f9qporb42v/170_Skin%20Vip.zip/file",
+      "image_url": "https://iili.io/npb0USR.jpg"
     },
     {
+      "id": "172",
       "title": "Skin Vip",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785802479_3659.png",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFM_ANDROID_1783943330_2a71a432.zip",
-      "game_type": "com.dts.freefiremax"
+      "description": "Nhân vật Kapella",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/t1ojkd60erconc2/172_Skin%20Vip.zip/file",
+      "image_url": "https://iili.io/npb0pHl.jpg"
     },
     {
+      "id": "174",
       "title": "Skin Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785802414_3659.png",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFT_ANDROID_1783943264_2f291c29.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Naruto",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785766345_3618.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN SET NARUTO FFT ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785766227_3607.png",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SET ĐỒ BẮN BẮN PHÒNG ANTIBAN_V3_FFTH_ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785764682_3590.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V21_IGNIS_AO_MU_FF_MAX_ADR.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785764383_3590.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V21_IGNIS_AO_MU_FF_THUONG_ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785763964_3579.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN NHÂN VẬT NỮ FFM.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785763702_3579.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN NHÂN VẬT NỮ.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Vip",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785763621_3583.png",
-      "file_url": "https://thanhdo.click/uploads/files/Mod Gói Đồ Pro Player V23 Trên Nhân Vật Alok Thức Tỉnh - KM Mod FF.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Bom keo mini",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785756123_3555.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/mod-ff-thg-skin-bom-keo-mini-can-all-game.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785666413_2901.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FAKE MOD SKIN OB54 V1 ANTIBAN.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785664196_2885.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN SET ĐỒ CHIẾN THẦN DUNG NHĂM FFTMAX ADR.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785663951_2885.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN SET ĐỒ CHIẾN THẦN DUNG NHĂM FFTHUONG ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Goku 7d",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785663924_2882.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SET GOKU 7d ignis fft adr by skull txt.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785658763_2865.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V14_IGNIS_AO_BLUELOCK_FF_THUONG_ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785658448_2860.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFM_ANDROID_1782205334_1ec083ab.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785658414_2860.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFT_ANDROID_1782205199_79c1e7d3.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "MOD GÓI ĐỒ TIA CHỚP XANH",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785658215_2857.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FF_MOD GÓI ĐỒ TIA CHỚP XANH.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Bom keo siêu múp",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785657935_2853.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Icewall_FFM_ANDROID_1784554108.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Bom keo siêu múp",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785657908_2853.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Icewall_FFT_ANDROID_1784553872.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785657649_2839.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN PROPLAYER ĐỒ C4 FULL HIỆU CHO ANDROID FFMAX.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785657601_2839.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN PROPLAYER ĐỒ C4 FULL HIỆU CHO ANDROID FFTH.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "KEM ĐÁNH RĂNG",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785657120_2835.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SET ĐỒ KEM ĐÁNH RĂNG FFT ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785656816_2829.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN GÓI ĐỒ + NẮM ĐẤM CHIDORI FFMAX ADR.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Dojo 2",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785656611_2824.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ZUMS_MOD_ALOK_THUC_TINH_FF_THUONG_ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Gojo",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785656399_2820.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN GOJO SATORU MUSCLE V2 CHO ANDROID BY NEXUS APPS.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785655933_2814.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V17_ALOK_CYRUS_FF_MAX_ADR.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785655886_2814.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V17_ALOK_CYRUS_FF_THUONG_ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785655610_2806.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V18_IGNIS_NAGI_FF_MAX_ADR.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785655564_2806.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V18_IGNIS_NAGI_FF_THUONG_ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785655007_2798.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V14_KAPELLA_AO_BLUELOCK_FF_MAX_ADR.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785654950_2798.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V14_KAPELLA_AO_BLUELOCK_FF_THUONG_ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785654589_2790.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V18_IGNIS_ISAGI_FF_MAX_ADR.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785654534_2790.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V18_IGNIS_ISAGI_FF_THUONG_ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785654132_2786.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFM_ANDROID_1784436695_cdeb6586.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785654103_2786.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFT_ANDROID_1784436576_38a2b7c0.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785653524_2780.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFT_ANDROID_1784830415_047f6d8d.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785653355_2780.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFM_ANDROID_1784830689_fa255e5f.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785652611_2776.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFT_ANDROID_1784387838_844dcc7a.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785652354_2774.png",
-      "file_url": "https://thanhdo.click/uploads/files/ModFreeFireBOT_Skin_FFM_ANDROID_1783653506_93600b3b.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785649986_2763.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/ModFF_HieuUng_FFM_ANDROID_1784388510_589669e3.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785649401_2757.png",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V1_IGNIS_BA_SAN_1_FF_MAXhh_ADR.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785647560_2718.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFMAX.ZIP",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785647418_edit_2720.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFTH.ZIP",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "MOD SKIN",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785645947_2698.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN GOI DO GOI DO QUAI NHAN HU KHONG FFM ADR.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785645514_2602.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MODSKIN .zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "minecraft xi măng ĐẢO HUẤN LUYỆN",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785596243_2586.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/DHL Lite.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "MINECRAFT XI MĂNG ĐẢO BÌNH MINH",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785596186_2588.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/DBM Lite.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "MINECRAFT XI MĂNG ĐẢO THẾ KỶ",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785596116_2587.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/DTK Lite.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785594778_2579.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V20_IGNIS_THO_THIEN_HA_A_FF_MAX_ADR.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn FF",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785585824_2555.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V15_KAPELLA_CUTE_FF_MAX_ADR.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Skin Bá Sàn ff",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785585738_2555.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V15_KAPELLA_CUTE_FF_THUONG_ADR.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Skin Bá Sàn FF",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785585593_2550.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/KEN_MOD_Z_OB54_V15_IGNIS_DAO_SI_DO_FF_MAX_ADR.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "SKIN ALOK PROPLAYER",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785652316_edit_2774.png",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN ALOK PROPLAYER ĐỒ GOJO,MŨ TVC2 KHÔNG LỖI ĐỒ MỚI NHẤT CHO ANDROID.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Định Vị Nhẹ Tâm",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1785582016_2485.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Data Định Vị Súng + Keo Mờ FF OB54 28-7.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "SIÊU NHÂN ĐỎ",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785648111_edit_2734.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFTHooo.ZIP",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "SIÊU NHÂN VÀNG",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785647999_edit_2732.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/FFMAXKKm.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Định vị + nhẹ tâm",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785825206_edit_4206.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Data Định Vị Súng + Keo Mờ FF OB54 28-7.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "MINECRAFT XI MĂNG ĐẢO THIÊN ĐƯỜNG:",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785555245_2420.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/DTD Lite.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "MINECRAFT XI MĂNG ĐỘC LANG CHIẾN",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785550504_2414.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/GRAFIK MC FREE FIRE 🌞.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "SPIDERMEN",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785549790_2403.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/SPIDERMEN FFT .zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "SHOT MCR ĐỎ",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785576649_edit_2487.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/SHOT MCR ĐỎ .zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "MINECRAFT XI MĂNG ĐẢO SA MẠC",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1785549398_2388.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/DSM Lite.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "SKIN BÁ SÀN FF",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1782825455_1000471172.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/v20 fft.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "SKIN IRON MAN",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1782227084_1000470825.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Ironman.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "SKIN BÁ SÀN TC",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1781964045_1000470628.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V19 FFM.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "SKIN BÁ SÀN TC",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781964009_1000470628.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V19 FFT.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "M1014 SHIBA",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1781945441_1000470579.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V18 FFM.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "M1014 SHIBA",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781945409_1000470579.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V18 FFT.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "M1887 VƯƠNG QUỐC CÁT",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1781945272_1000470552.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V17 FFM.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "M1887 VƯƠNG QUỐC CÁT",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781945193_1000470552.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V17 FFT.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "AWM GẤU GẮT GỎNG",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781944980_1000470534.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V16 FFT.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "MP5 THỎ 7 MÀU",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1781944807_1000470532.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V15 FFM.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "MP5 THỎ 7 MÀU",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781944731_1000470532.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V15 FFT.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "AWM HOẢN BĂNG",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1781944593_1000470480.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V14 FFM.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "AWM HOẢN BĂNG",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781944547_1000470480.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V14 FFT.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "TROGON ĐẢO QUÂN SỰ",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781944422_1000470468.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V13 FFT.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "UMP KHỦNG LONG",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781944297_1000470449.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V12 FFT.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "M1887 HỎA NỘ",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781944177_1000470448.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Mod Skin V11 FFT OB53.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "MP40 MÃNG XÀ",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1781943974_1000470384.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Mod Skin FFM V10.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "MP40 MÃNG XÀ",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781943939_1000470384.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Mod Skin FFT V10.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "M590 DIGIMON",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1781944042_edit_1000470395.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Mod Skin FFMAX V9.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "M590 DIGIMON",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781944012_edit_1000470395.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Mod Skin FFT V9.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "M1887 THÁNH PHỒNG",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1781937851_edit_1000470314.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V8 FFMAX.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Mod Skin V7 FFMAX",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1781879608_nu.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V7 FFM.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Mod Skin V7 FFT",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781878740_nu.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V7 FFT.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Mod Skin V6 FFMAX",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1781878469_e4e65929-b73f-42eb-a0a6-7d8392cdf2d2.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/v6 FFM.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Mod Skin V6 FFT",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781878235_e4e65929-b73f-42eb-a0a6-7d8392cdf2d2.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V6  FFT.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Mod Skin V5 FFMAX",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1781867558_1000470216.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V5 FFM.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Mod Skin V5 FFT",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781865692_1000470216.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/V5.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Mod Skin V4 FFT ",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781861354_1000470213.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/Mod Skin FFM V4 .zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Mod Skin V2 FFMAX OB54",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1781709936_1000470017.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN V2 SHIN MOD FFM.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Mod Skin V2 FFT",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781709892_1000470017.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN V2 SHIN MOD FFT.zip",
-      "game_type": "com.dts.freefireth"
-    },
-    {
-      "title": "Mod Skin V1 FFMAX ",
-      "description": "Data For FFMax",
-      "image_url": "https://thanhdo.click/uploads/images/1781707660_1000470012.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN V1 SHIN MOD FFM.zip",
-      "game_type": "com.dts.freefiremax"
-    },
-    {
-      "title": "Mod Skin V1 FFT ",
-      "description": "Data For FFTH",
-      "image_url": "https://thanhdo.click/uploads/images/1781495390_1000469846.jpg",
-      "file_url": "https://thanhdo.click/uploads/files/MOD SKIN V1 SHIN MOD FFT.zip",
-      "game_type": "com.dts.freefireth"
+      "description": "Nhân vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/u2n0v1tn9vvpump/174_Skin%20Vip.zip/file",
+      "image_url": "https://iili.io/npb19NS.jpg"
+    },
+    {
+      "id": "180",
+      "title": "Skin Brazil",
+      "description": "Nhân Vật Santino",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/kje1dczowgc7a8a/180_Skin%20Brazil.zip/file",
+      "image_url": "https://iili.io/npb1HD7.jpg"
+    },
+    {
+      "id": "184",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Dimitri",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/n8lhkali49geot5/184_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npb12Ve.jpg"
+    },
+    {
+      "id": "192",
+      "title": "Skin vip pro",
+      "description": "Nhân vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/jatji4vv3yy73o0/192_Skin%20vip%20pro.zip/file",
+      "image_url": "https://iili.io/npb1flj.jpg"
+    },
+    {
+      "id": "197",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân Vật lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/ylb68o2a0dexarj/197_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npb1oOB.jpg"
+    },
+    {
+      "id": "199",
+      "title": "Skin khỉ Bá",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/c2b87i3gbrosmmv/199_Skin%20kh%E1%BB%89%20B%C3%A1.zip/file",
+      "image_url": "https://iili.io/npb1xDP.jpg"
+    },
+    {
+      "id": "205",
+      "title": "Gojo Bá Sàn ff",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/t02s3cbqvcnhoe8/205_Gojo%20B%C3%A1%20S%C3%A0n%20ff.zip/file",
+      "image_url": "https://iili.io/npb1TWF.jpg"
+    },
+    {
+      "id": "208",
+      "title": "Skin vip pro",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/75cmrxy438gyfmh/208_Skin%20vip%20pro.zip/file",
+      "image_url": "https://iili.io/npb1Rfa.jpg"
+    },
+    {
+      "id": "214",
+      "title": "Bên lựa",
+      "description": "Nhân Vật lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/wefd0pttsju1t5z/214_B%C3%AAn%20l%E1%BB%B1a.zip/file",
+      "image_url": "https://iili.io/npb17Uv.jpg"
+    },
+    {
+      "id": "215",
+      "title": "Skin vip",
+      "description": "Nhân Vật lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/qvq73mgf2q07amd/215_Skin%20vip.zip/file",
+      "image_url": "https://iili.io/npb1cRp.jpg"
+    },
+    {
+      "id": "217",
+      "title": "Nữ Múp",
+      "description": "Nhân vật Kapella",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/4n68kkm996qdtg7/217_N%E1%BB%AF%20M%C3%BAp.zip/file",
+      "image_url": "https://iili.io/npb1Ext.jpg"
+    },
+    {
+      "id": "220",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/yxkdgarxx1x5v7z/220_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npb1Msn.jpg"
+    },
+    {
+      "id": "234",
+      "title": "Kaito Kid",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/cl7hsxd22186sec/234_Kaito%20Kid.zip/file",
+      "image_url": "https://iili.io/npb1Wfs.jpg"
+    },
+    {
+      "id": "248",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/gr438jqbs7ovbsh/248_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npb1Sse.jpg"
+    },
+    {
+      "id": "261",
+      "title": "Skin Vip pro",
+      "description": "Nhân vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/6mbs3xdi738vbxv/261_Skin%20Vip%20pro.zip/file",
+      "image_url": "https://iili.io/npb1seV.jpg"
+    },
+    {
+      "id": "263",
+      "title": "Skin Bá Vip",
+      "description": "Nhân vật KAPELLA",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/djgmjfd6x2vir2i/263_Skin%20B%C3%A1%20Vip.zip/file",
+      "image_url": "https://iili.io/npb1yrJ.jpg"
+    },
+    {
+      "id": "267",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/vrazbc3gqv68ik5/267_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbEC1s.jpg"
+    },
+    {
+      "id": "268",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/zyznxymfss0qkof/268_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbEYBe.jpg"
+    },
+    {
+      "id": "269",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/cqwphkkt9qc1g2i/269_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbEN4a.jpg"
+    },
+    {
+      "id": "273",
+      "title": "Skin Vip Pro",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/g99hi45onu4c9nf/273_Skin%20Vip%20Pro.zip/file",
+      "image_url": "https://iili.io/npbEUTN.jpg"
+    },
+    {
+      "id": "275",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/u1aulccwbawtmml/275_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbEtyl.jpg"
+    },
+    {
+      "id": "287",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/ttflew4if8vok6j/287_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbGHGe.jpg"
+    },
+    {
+      "id": "294",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân Vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/yhapwu2okuktdgl/294_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbGucJ.jpg"
+    },
+    {
+      "id": "295",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Santino",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "",
+      "image_url": "https://iili.io/npbGlnt.jpg"
+    },
+    {
+      "id": "296",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân Vật lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/r3ey5h1wvx3883n/296_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbGyRR.jpg"
+    },
+    {
+      "id": "297",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/g05kah1vdu41m3i/297_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbMqUG.jpg"
+    },
+    {
+      "id": "298",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/cxlw3rt3yze8ctl/298_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbMlOQ.jpg"
+    },
+    {
+      "id": "299",
+      "title": "Skin lufy",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/tm3ul1nu5v1anq9/299_Skin%20lufy.zip/file",
+      "image_url": "https://iili.io/npbMOeR.jpg"
+    },
+    {
+      "id": "302",
+      "title": "Skin zenisu",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/efop6j2g5rnjmj7/302_Skin%20zenisu.zip/file",
+      "image_url": "https://iili.io/npbMSst.jpg"
+    },
+    {
+      "id": "310",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/luqsippoa2nr9el/310_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbMse4.jpg"
+    },
+    {
+      "id": "315",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật KAPELLA",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/2yyk03w2tim624j/315_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbMyru.jpg"
+    },
+    {
+      "id": "321",
+      "title": "Anime guru",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/1s61cnhssh47010/321_Anime%20guru.zip/file",
+      "image_url": "https://iili.io/npbVIkv.jpg"
+    },
+    {
+      "id": "324",
+      "title": "Skin cute",
+      "description": "Nhân vật Kapella",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/80cub09bcvil1pb/324_Skin%20cute.zip/file",
+      "image_url": "https://iili.io/npbVc4n.jpg"
+    },
+    {
+      "id": "326",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/m7cgn5ropqevmnn/326_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbVjC7.jpg"
+    },
+    {
+      "id": "331",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân Vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/ks14s9a95sl071k/331_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbV8yx.jpg"
+    },
+    {
+      "id": "333",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân Vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/qvoq05n5uyc201s/333_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbVQaa.jpg"
+    },
+    {
+      "id": "335",
+      "title": "Skin frepm",
+      "description": "Nhân vật ray",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/kkda6790kgglkbc/335_Skin%20frepm.zip/file",
+      "image_url": "https://iili.io/npbW59j.jpg"
+    },
+    {
+      "id": "338",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/zt3kfnfvosq2yic/338_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbWLVS.jpg"
+    },
+    {
+      "id": "343",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/qcvx1c9teffd7kt/343_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbX50X.jpg"
+    },
+    {
+      "id": "345",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/8wq2ik4ivr1b7j6/345_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbXX19.jpg"
+    },
+    {
+      "id": "347",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/i249o6qtstij84v/347_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbhFI4.jpg"
+    },
+    {
+      "id": "354",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/i7f5i9ec7uwrun7/354_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbhKhl.jpg"
+    },
+    {
+      "id": "355",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/tuqb9crv51krna8/355_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbhTpj.jpg"
+    },
+    {
+      "id": "357",
+      "title": "Tung tung",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/uoxlsy8kzsgapn6/357_Tung%20tung.zip/file",
+      "image_url": "https://iili.io/npbh5QV.jpg"
+    },
+    {
+      "id": "358",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/x110q6fbh2fh87e/358_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbhEva.jpg"
+    },
+    {
+      "id": "360",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/0tb31x47uvfxh3x/360_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbhWjR.jpg"
+    },
+    {
+      "id": "361",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/tdejdigj0kh2tr7/361_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbhvvs.jpg"
+    },
+    {
+      "id": "362",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/qwrdqa0yosjzg84/362_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbhi67.jpg"
+    },
+    {
+      "id": "363",
+      "title": "Cong an",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/rbxdjlv1oq1rdwc/363_Cong%20an.zip/file",
+      "image_url": "https://iili.io/npbhZ8u.jpg"
+    },
+    {
+      "id": "365",
+      "title": "Người nhện",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/9zv4vp2tdx8fl5k/365_Ng%C6%B0%E1%BB%9Di%20nh%E1%BB%87n.zip/file",
+      "image_url": "https://iili.io/npbj3cF.jpg"
+    },
+    {
+      "id": "372",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân Vật lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/zwaeppff3jadyd3/372_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbjqAJ.jpg"
+    },
+    {
+      "id": "373",
+      "title": "Skinny Bá Sàn",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/xcrbtijo5jgrehn/373_Skinny%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbjucX.jpg"
+    },
+    {
+      "id": "377",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/v377r88iclso1hf/377_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbjMl9.jpg"
+    },
+    {
+      "id": "388",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/8y439u9qw9hbi68/388_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbjwDx.jpg"
+    },
+    {
+      "id": "389",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/81qeg3jxyguzsv8/389_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbj4Ra.jpg"
+    },
+    {
+      "id": "391",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/hpem0s8n6wdexxo/391_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbjDlt.jpg"
+    },
+    {
+      "id": "397",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/n0ivksb67i91h28/397_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbw2Wl.jpg"
+    },
+    {
+      "id": "400",
+      "title": "Skin thỏ",
+      "description": "Nhân Vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/nljdvik1e076t8w/400_Skin%20th%E1%BB%8F.zip/file",
+      "image_url": "https://iili.io/npbwn5u.jpg"
+    },
+    {
+      "id": "401",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân Vật Alok Thức Tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/wa1pv86lkrdf0w7/401_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbwRqB.jpg"
+    },
+    {
+      "id": "402",
+      "title": "Skin",
+      "description": "Nhân Vật Kelly thức tỉnh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/nrx56kha9ysnsls/402_Skin.zip/file",
+      "image_url": "https://iili.io/npbw4r7.jpg"
+    },
+    {
+      "id": "403",
+      "title": "Skin Bá Sàn",
+      "description": "Nhân Vật Lgnis",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/cl21075s4qofgff/403_Skin%20B%C3%A1%20S%C3%A0n.zip/file",
+      "image_url": "https://iili.io/npbwthx.jpg"
+    },
+    {
+      "id": "404",
+      "title": "Skin",
+      "description": "Nhân vật Wolfrahh",
+      "game_type": "com.dts.freefireth",
+      "skin_type": "character",
+      "file_url": "https://www.mediafire.com/file/5a29ox2q6s2nk2m/404_Skin.zip/file",
+      "image_url": "https://iili.io/npbNdkg.jpg"
     }
   ]
 }
